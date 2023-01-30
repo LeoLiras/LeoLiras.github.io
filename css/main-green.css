@@ -1062,7 +1062,25 @@ p span{
   border-left: 1px solid #e0e0e0;
 }
 
+.timeline-item .item-senai{
+  color:#DC143C;
+  font-weight: bold;
+}
 
+.timeline-item .item-cotuca{
+  color:#F08080;
+  font-weight: bold;
+}
+
+.timeline-item .item-siemens{
+  color:#9400D3;
+  font-weight: bold;
+}
+
+.timeline-item .item-eaton{
+  color:#00008B;
+  font-weight: bold;
+}
 
 /* Skills */
 .skills-info {
