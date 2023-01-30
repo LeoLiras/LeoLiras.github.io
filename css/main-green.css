@@ -2591,3 +2591,12 @@ blockquote footer, blockquote small, blockquote .small {
     font-size: 16px;
   }
 }
+
+.more-projects-information{
+  color: black;
+
+  text-align: center;
+  font-weight: bold;
+  
+  margin-top: 50px;
+}
