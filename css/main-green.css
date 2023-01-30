@@ -791,6 +791,11 @@ body > footer .copyrights {
   color: #2eca7f;
 }
 
+p span{
+  color:#2eca7f;
+  font-weight: bold;
+}
+
 .custom-page-content .block {
   margin-bottom: 30px;
 }
