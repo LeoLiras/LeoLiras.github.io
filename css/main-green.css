@@ -924,6 +924,23 @@ p span{
   box-shadow: 0px 3px 8px 0px rgba(0,0,0,0.1);
 }
 
+.start-page-content .social-links .linkedin-icon-formate:hover {
+  background-color: #0a66c2;
+  color: white;
+}
+.start-page-content .social-links .facebook-icon-formate:hover {
+  background-color: #1877f2;
+  color: white;
+}
+.start-page-content .social-links .instagram-icon-formate:hover {
+  background-color: white;
+  color: #e32e56;
+}
+.start-page-content .social-links .github-icon-formate:hover {
+  background-color: white;
+  color: black;
+}
+
 .start-page-content .social-links a:hover {
   -webkit-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
   -moz-box-shadow: 0px 6px 18px 0px rgba(0,0,0,0.2);
